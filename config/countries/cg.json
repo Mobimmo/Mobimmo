@@ -1,0 +1,40 @@
+{
+  "code": "CG",
+  "currency": "FCFA",
+  "cities": {
+    "1": {
+      "name": "Brazzaville",
+      "zones": {
+        "1": "Makélékélé",
+        "2": "Bacongo",
+        "3": "Poto-Poto",
+        "4": "Moungali",
+        "5": "Ouenzé",
+        "6": "Talangaï",
+        "7": "Mfilou",
+        "8": "Madibou",
+        "9": "Djiri"
+      }
+    },
+    "2": {
+      "name": "Pointe-Noire",
+      "zones": {
+        "1": "Lumumba",
+        "2": "Mvoumvou",
+        "3": "Tié-Tié",
+        "4": "Loandjili",
+        "5": "Mongo-Poukou",
+        "6": "Ngoyo"
+      }
+    },
+    "3": {
+      "name": "Dolisie",
+      "zones": {
+        "1": "Centre-ville",
+        "2": "Loubomo",
+        "3": "Tsiamba",
+        "4": "Mavoula"
+      }
+    }
+  }
+}
